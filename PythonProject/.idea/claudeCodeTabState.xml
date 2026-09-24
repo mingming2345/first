@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ClaudeCodeTabState">
+    <option name="tabSessions">
+      <map>
+        <entry key="0">
+          <value>
+            <TabSessionState>
+              <option name="projectPath" value="C:\Users\18364\PycharmProjects\PythonProject" />
+              <option name="provider" value="claude" />
+              <option name="sessionId" value="6627e6e0-976e-4a0e-a69b-0799d2de3bf6" />
+              <option name="cwd" value="C:\Users\18364\PycharmProjects\PythonProject" />
+              <option name="model" value="claude-sonnet-5[1m]" />
+              <option name="permissionMode" value="default" />
+            </TabSessionState>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
