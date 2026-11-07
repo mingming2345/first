@@ -1,5 +1,5 @@
 print ("hello world")
-print("莎士比亚说：\"to be not or to be,that's the question\"")
+print("莎士比亚说：'to be not or to be,that's the question'")
 print("莎士比亚说:'你是傻子'")
 print("莎士比亚说：'to be not or to be,that's the question'")
 print('莎士比亚说："to be not or to be,that\'s the question"')
@@ -27,3 +27,14 @@ favoritefruits = "苹果"
 second_fruits = favoritefruits
 favoritefruits = '香蕉'
 print(favoritefruits,second_fruits)
+print(int("1"))
+# print(int("1.2"))会报错，因为int转化不了浮点型
+print(float("1.2"))
+print(float("1"))
+# print(int("abc"))会报错,因为无法转化非阿拉伯数字的字符串
+# print(float("abc"))会报错,因为无法转化非阿拉伯数字的字符串
+print(int(True))#输出1，因为布尔类型的true为1，false为0
+print(int(False))#输出0
+
+print(float(False))#输出0
+print(3/2)
